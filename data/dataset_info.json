@@ -474,8 +474,8 @@
   }
 },
 "DSM-5": {
-    "file_name": "DSM-5.txt",
-    "columns": {
-      "prompt": "text"
-    }
-  },
+  "file_name": "DSM-5.txt",
+  "columns": {
+    "prompt": "text"
+  }
+}
