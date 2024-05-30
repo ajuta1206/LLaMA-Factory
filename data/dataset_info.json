@@ -455,7 +455,7 @@
     }
   },
   "c4_demo": {
-    "file_name": "c4_demo.json",
+    "file_name": "c4_demo_cleaned.json",
     "columns": {
       "prompt": "text"
     }
