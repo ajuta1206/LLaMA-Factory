@@ -448,8 +448,8 @@
       "assistant_tag": "assistant"
     }
   },
-  "DSM-5": {
-    "file_name": "DSM-5.txt",
+  "DSM": {
+    "file_name": "DSM.txt",
     "columns": {
       "prompt": "text"
     }
