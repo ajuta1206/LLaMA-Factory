@@ -449,7 +449,7 @@
     }
   },
   "DSM": {
-    "file_name": "DSM.txt",
+    "file_name": "wiki_demo.txt",
     "columns": {
       "prompt": "text"
     }
